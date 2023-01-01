@@ -6,7 +6,6 @@ body{
     background-color: black;
 }
 
-
 .buttonname {
     position: absolute;
     top: 158px;
@@ -33,8 +32,8 @@ body{
 
 .bagoff{
     position: absolute;
-    top: 225px;
-    left: 48px;
+    top: 215px;
+    left: 58px;
 }
 
 .fqa{
