@@ -26,8 +26,8 @@ body{
 
 .torgOff{
     position: absolute;
-    top: 230px;
-    left: 185px;
+    top: 205px;
+    left: 175px;
 }
 
 .bagoff{
@@ -38,20 +38,20 @@ body{
 
 .fqa{
     position: absolute;
-    top: 225px;
-    left: 247px;
+    top: 200px;
+    left: 237px;
 }
 
 .statics{
     position: absolute;
-    top: 225px;
-    left: 115px;
+    top: 200px;
+    left: 105px;
 }
 
 .pust{
     position: absolute;
-    top: 225px;
-    left: 313px; 
+    top: 200px;
+    left: 303px; 
 }
 
 .ref{
