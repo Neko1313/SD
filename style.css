@@ -1,0 +1,88 @@
+.ff {
+    position: relative;
+}
+body{
+    max-width: 414px;
+    background-color: black;
+}
+
+
+.buttonname {
+    position: absolute;
+    top: 158px;
+    left: 25px;
+}
+.buttonlink{
+    position: absolute;
+    top: 158px;
+    left: 215px;
+}
+
+.grap{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.torgOff{
+    position: absolute;
+    top: 230px;
+    left: 185px;
+}
+
+.bagoff{
+    position: absolute;
+    top: 225px;
+    left: 48px;
+}
+
+.fqa{
+    position: absolute;
+    top: 225px;
+    left: 247px;
+}
+
+.statics{
+    position: absolute;
+    top: 225px;
+    left: 115px;
+}
+
+.pust{
+    position: absolute;
+    top: 225px;
+    left: 313px; 
+}
+
+.ref{
+    position: absolute;
+    top: 134px;
+    left: 300px;
+    color: aqua; 
+}
+
+.soul{
+    position: absolute;
+    top: 88px;
+    left: 300px;
+    color: aqua;
+}
+
+main{
+    position: absolute;
+    top: 300px;
+    width: 100%;
+
+}
+
+.torg{
+    position: absolute;
+    top: -30px;
+}
+
+.setcatorg{
+    position: absolute;
+    top: 220px;
+    left: 10px;
+}
