@@ -8,13 +8,13 @@ body{
 
 .buttonname {
     position: absolute;
-    top: 158px;
-    left: 25px;
+    top: 133px;
+    left: 15px;
 }
 .buttonlink{
     position: absolute;
-    top: 158px;
-    left: 215px;
+    top: 133px;
+    left: 15px;
 }
 
 .grap{
@@ -56,21 +56,21 @@ body{
 
 .ref{
     position: absolute;
-    top: 134px;
-    left: 300px;
+    top: 109px;
+    left: 290px;
     color: aqua; 
 }
 
 .soul{
     position: absolute;
-    top: 88px;
-    left: 300px;
+    top: 63px;
+    left: 290px;
     color: aqua;
 }
 
 main{
     position: absolute;
-    top: 300px;
+    top: 290px;
     width: 100%;
 
 }
@@ -82,6 +82,6 @@ main{
 
 .setcatorg{
     position: absolute;
-    top: 220px;
-    left: 10px;
+    top: 195px;
+    left: 0px;
 }
