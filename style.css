@@ -14,16 +14,24 @@ body {
 .ff {
     position: relative;
 }
+<<<<<<< HEAD
 /**
+=======
+body{
+    max-width: 414px;
+    background-color: black;
+}
+
+>>>>>>> c534fc8a63fdfdb70f3e7ee73ea80ec6a2102476
 .buttonname {
     position: absolute;
-    top: 158px;
-    left: 25px;
+    top: 133px;
+    left: 15px;
 }
 .buttonlink{
     position: absolute;
-    top: 158px;
-    left: 215px;
+    top: 133px;
+    left: 15px;
 }
 **/
 
@@ -61,53 +69,58 @@ body {
 /**
 .torgOff{
     position: absolute;
-    top: 230px;
-    left: 185px;
+    top: 205px;
+    left: 175px;
 }
 
 .bagoff{
     position: absolute;
-    top: 225px;
-    left: 48px;
+    top: 200px;
+    left: 38px;
 }
 
 .fqa{
     position: absolute;
-    top: 225px;
-    left: 247px;
+    top: 200px;
+    left: 237px;
 }
 
 .statics{
     position: absolute;
-    top: 225px;
-    left: 115px;
+    top: 200px;
+    left: 105px;
 }
 
 .pust{
     position: absolute;
-    top: 225px;
-    left: 313px; 
+    top: 200px;
+    left: 303px; 
 }
 **/
 
 .ref{
     position: absolute;
-    top: 134px;
-    left: 300px;
+    top: 109px;
+    left: 290px;
     color: aqua; 
 }
 
 .soul{
     position: absolute;
-    top: 88px;
-    left: 300px;
+    top: 63px;
+    left: 290px;
     color: aqua;
 }
 
 main{
     position: absolute;
+<<<<<<< HEAD
     top: 300px;
     max-width: 100%;
+=======
+    top: 290px;
+    width: 100%;
+>>>>>>> c534fc8a63fdfdb70f3e7ee73ea80ec6a2102476
 
 }
 
@@ -118,6 +131,6 @@ main{
 
 .setcatorg{
     position: absolute;
-    top: 220px;
-    left: 10px;
+    top: 195px;
+    left: 0px;
 }
