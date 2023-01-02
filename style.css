@@ -1,12 +1,20 @@
+html,
+body {
+    width: 100%;
+    max-width: 414px;
+    margin: 0;
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+.sd{
+    width: 414px;
+}
+
 .ff {
     position: relative;
 }
-body{
-    max-width: 414px;
-    background-color: black;
-}
-
-
+/**
 .buttonname {
     position: absolute;
     top: 158px;
@@ -17,6 +25,7 @@ body{
     top: 158px;
     left: 215px;
 }
+**/
 
 .grap{
     position: absolute;
@@ -24,7 +33,32 @@ body{
     left: 0;
     width: 100%;
 }
+.but{
+    position: absolute;
+    display: flex;
+    width: 385px;
+    top: 155px;
+    left: 18px;
+}
 
+.aaa{
+    margin: 0 auto;
+}
+
+.menu{
+    position: absolute;
+    display: flex;
+    width: 335px;
+    top: 220px;
+    left: 40px;
+}
+
+.aa{
+    width: 60px;
+    margin: 0 auto;
+}
+
+/**
 .torgOff{
     position: absolute;
     top: 230px;
@@ -54,6 +88,7 @@ body{
     top: 225px;
     left: 313px; 
 }
+**/
 
 .ref{
     position: absolute;
@@ -72,7 +107,7 @@ body{
 main{
     position: absolute;
     top: 300px;
-    width: 100%;
+    max-width: 100%;
 
 }
 
