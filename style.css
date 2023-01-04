@@ -12,7 +12,7 @@ body {
 }
 
 .ff {
-    position: relative;
+    position: sticky;
 }
 <<<<<<< HEAD
 
@@ -50,18 +50,15 @@ body {
     margin: 0 auto;
 }
 
-.ref{
+.statics{
     position: absolute;
-    top: 109px;
-    left: 290px;
-    color: aqua; 
+    top: 60px;
+    left: 270px;
+    color: aqua;
 }
 
-.soul{
-    position: absolute;
-    top: 63px;
-    left: 290px;
-    color: aqua;
+.ss{
+    margin: 28px;
 }
 
 main{
