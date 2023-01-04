@@ -1,6 +1,5 @@
 html,
 body {
-    width: 100%;
     max-width: 414px;
     margin: 0;
     background-color: black;
@@ -14,26 +13,6 @@ body {
 .ff {
     position: relative;
 }
-<<<<<<< HEAD
-/**
-=======
-body{
-    max-width: 414px;
-    background-color: black;
-}
-
->>>>>>> c534fc8a63fdfdb70f3e7ee73ea80ec6a2102476
-.buttonname {
-    position: absolute;
-    top: 133px;
-    left: 15px;
-}
-.buttonlink{
-    position: absolute;
-    top: 133px;
-    left: 15px;
-}
-**/
 
 .grap{
     position: absolute;
@@ -66,38 +45,6 @@ body{
     margin: 0 auto;
 }
 
-/**
-.torgOff{
-    position: absolute;
-    top: 205px;
-    left: 175px;
-}
-
-.bagoff{
-    position: absolute;
-    top: 200px;
-    left: 38px;
-}
-
-.fqa{
-    position: absolute;
-    top: 200px;
-    left: 237px;
-}
-
-.statics{
-    position: absolute;
-    top: 200px;
-    left: 105px;
-}
-
-.pust{
-    position: absolute;
-    top: 200px;
-    left: 303px; 
-}
-**/
-
 .ref{
     position: absolute;
     top: 109px;
@@ -114,13 +61,10 @@ body{
 
 main{
     position: absolute;
-<<<<<<< HEAD
     top: 300px;
     max-width: 100%;
-=======
     top: 290px;
     width: 100%;
->>>>>>> c534fc8a63fdfdb70f3e7ee73ea80ec6a2102476
 
 }
 
