@@ -1,6 +1,6 @@
 html,
 body {
-    max-width: 414px;
+    width: 414px;
     margin: 0;
     background-color: black;
     font-family: 'Poppins', sans-serif;
@@ -66,9 +66,8 @@ body {
 main{
     position: absolute;
     top: 300px;
-    max-width: 100%;
-    top: 290px;
     width: 100%;
+    top: 290px;
 <<<<<<< HEAD
 =======
 
@@ -82,11 +81,8 @@ main{
 
 .setcatorg{
     position: absolute;
+    width: 414px;
     top: 210px;
     left: 10px;
-}
-.setcator{
-    position: absolute;
-    top: 330px;
-    left: 10px;
+    display: block;
 }
