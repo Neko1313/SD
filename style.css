@@ -13,7 +13,10 @@ body {
 .ff {
     position: relative;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 06430cc55deeeb5d35aa9051ef5e09bb92478e71
 
 .grap{
     position: absolute;
@@ -66,6 +69,10 @@ main{
     max-width: 100%;
     top: 290px;
     width: 100%;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 06430cc55deeeb5d35aa9051ef5e09bb92478e71
 }
 
 .torg{
